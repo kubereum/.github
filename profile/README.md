@@ -2,24 +2,32 @@
 
 Payment orchestration software for India.
 
-We connect businesses to licensed payment aggregators and payout providers. We handle the integration, reconciliation, and compliance work, so business teams can focus on the rest.
+We connect businesses to licensed payment aggregators and payout providers. We handle the integration, reconciliation, and compliance work, so business teams can focus on running the business.
 
-## Links
+## Getting started
 
-- Website: https://kubereum.com
+- Website: [kubereum.com](https://kubereum.com)
+- Documentation: coming soon
 - Email: kubereum9@gmail.com
-- Location: New Delhi, India
+
+If you are evaluating Kubereum for your platform, write to us at hello@kubereum.com with a short note about your use case and volume.
 
 ## What we work on
 
-- Payouts orchestration across multiple aggregators
-- Reconciliation and ledger tooling
-- Compliance-first integrations (DPDP, PMLA, RBI)
+- Payouts orchestration across multiple aggregators with smart rail routing
+- Reconciliation and ledger tooling for finance teams
+- Compliance-first integrations covering DPDP, PMLA, and the RBI 2025 Master Direction
 
 ## Stack
 
-TypeScript on the backend, Postgres, Redis, BullMQ, AWS Mumbai.
+TypeScript on the backend. Postgres for transactional data. Redis and BullMQ for queues. AWS Mumbai for hosting. Standard, boring, well understood.
 
-## Hiring
+## Open positions
 
-Engineers based in Delhi NCR. Write to careers@kubereum.com.
+We hire engineers based in Delhi NCR. Write to careers@kubereum.com with a CV and links to anything you have built.
+
+## Community
+
+| | | | |
+|--|--|--|--|
+| [Security](SECURITY.md) | [Code of Conduct](CODE_OF_CONDUCT.md) | [Contributing](CONTRIBUTING.md) | [Website](https://kubereum.com) |
